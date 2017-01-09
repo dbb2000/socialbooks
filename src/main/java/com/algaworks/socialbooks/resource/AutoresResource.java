@@ -18,7 +18,6 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import com.algaworks.socialbooks.domain.Autor;
 import com.algaworks.socialbooks.services.AutoresService;
-import com.sun.media.jfxmedia.Media;
 
 @RestController
 @RequestMapping("/autores")
